@@ -1,0 +1,10 @@
+{  
+  "documentNavInfo": "Belge {{ currentFileNo }} / {{ allFilesCount }}",  
+  "noRendererMessage": "Bu dosya tipini görüntüleyemiyoruz: {{{ fileType }}}",  
+  "downloadButtonLabel": "Dosyayı indir",  
+  "brokenFile": "Dosyanız bozuk. Lütfen kontrol edin.",  
+  "msgPluginRecipients": "Alıcılar",  
+  "msgPluginSender": "Gönderen",  
+  "pdfPluginLoading": "Yükleniyor...",  
+  "pdfPluginPageNumber": "Sayfa {{ currentPage }}/{{ allPagesCount }}"  
+}
